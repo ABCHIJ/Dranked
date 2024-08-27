@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781438751049",
+    "project_id": "sperroneu",
+    "storage_bucket": "sperroneu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781438751049:android:f2f0f15749c5826d62ca98",
+        "android_client_info": {
+          "package_name": "com.example.sperro_neu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd0cKbVVnpZsCy8_tvg436zzUUuQt36f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
